@@ -2,8 +2,7 @@
 
 This is an example of a button view backed by a Stativus statechart.
 
-Thanks to Erich Ocean for the inspiration.
-
+Thanks to Erich Ocean for the ButtonView example and Evin Grano for Stativus.
 
 ## Statechart
 
