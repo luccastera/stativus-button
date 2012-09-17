@@ -1,0 +1,20 @@
+body {
+  padding: 40px;
+  min-height: 600px;
+}
+
+div.button {
+  width: 100px;
+  height: 20px;
+  background-color: #ccc;
+  padding: 10px;
+  text-align: center;
+  border-radius: 10px;
+  border: 1px solid #666;
+}
+
+div.button.active {
+  background-color: #666;
+  color: #fff;
+  cursor: pointer;
+}
